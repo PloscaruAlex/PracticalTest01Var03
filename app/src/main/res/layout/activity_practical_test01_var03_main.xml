@@ -26,7 +26,7 @@
             android:ems="10"
             android:inputType="text"
             android:enabled="true"
-            android:saveEnabled="false"
+            android:saveEnabled="true"
             android:text="1" />
 
         <LinearLayout
@@ -63,7 +63,7 @@
             android:ems="10"
             android:inputType="text"
             android:enabled="true"
-            android:saveEnabled="false"
+            android:saveEnabled="true"
             android:text="1" />
 
         <EditText
@@ -73,7 +73,7 @@
             android:ems="10"
             android:inputType="text"
             android:enabled="false"
-            android:saveEnabled="false"
+            android:saveEnabled="true"
             android:text="1 + 1 = 2" />
 
         <Button
